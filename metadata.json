@@ -1,0 +1,6 @@
+{
+  "name": "CodeToContent - Dev Socials & Article Generator",
+  "description": "Convert any code snippet or GitHub README into an engaging Twitter/X thread, professional LinkedIn post, and compelling Dev.to article intro side by side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
